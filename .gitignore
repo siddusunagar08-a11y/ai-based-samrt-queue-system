@@ -1,0 +1,12 @@
+__pycache__/
+*.py[cod]
+*$py.class
+*.env
+.venv/
+env/
+venv/
+instance/*.sqlite
+instance/*.db
+app/ml/model.joblib
+.pytest_cache/
+.DS_Store
